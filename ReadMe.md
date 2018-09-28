@@ -2,8 +2,8 @@
 
 效果：
 
-[效果一]()
-[效果二]()
+[效果一](https://github.com/Wzhixiang/PictureInPicture/blob/master/ScreenCapture/device-2018-09-28-161203.png)
+[效果二](https://github.com/Wzhixiang/PictureInPicture/blob/master/ScreenCapture/device-2018-09-28-161237.png)
 
 如何实现画中画？
  
@@ -32,6 +32,7 @@
 注意事项：
         
         * 需要在版本Android 8.0 26上才能使用
+        * 进入画中画模式后，生命周期变化 ->onPause， 重新回到MainActivity，生命周期->onResume
         
 参考：
         
