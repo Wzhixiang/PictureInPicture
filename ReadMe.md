@@ -2,7 +2,7 @@
 
 效果：
 
-![效果一](https://github.com/Wzhixiang/PictureInPicture/blob/master/ScreenCapture/device-2018-09-28-161203.pngstrip%7CimageView2/2/w/300)
+![效果一](https://github.com/Wzhixiang/PictureInPicture/blob/master/ScreenCapture/device-2018-09-28-161203.png?strip%7CimageView2/2/w/300)
 ![效果二](https://github.com/Wzhixiang/PictureInPicture/blob/master/ScreenCapture/device-2018-09-28-161237.pngstrip%7CimageView2/2/w/300)
 
 如何实现画中画？
